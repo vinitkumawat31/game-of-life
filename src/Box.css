@@ -1,0 +1,20 @@
+.box{
+	display: inline-block;
+	border: 1px solid #00000075;
+	width: 15px;
+	height: 15px;
+	margin: 1px;
+	vertical-align: top;
+}
+.box:hover{
+	background-color: #d9ebf2;
+}
+.on{
+	background-color: gray;
+}
+.on:hover{
+	background-color: gray;
+}
+.off{
+	background-color: none;
+}
